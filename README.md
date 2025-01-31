@@ -7,6 +7,7 @@ Tecnologias Utilizadas:
     JUnit (para testes)
 
 Configurar o Projeto:
+
     Clone este repositório para sua máquina local
     Configurar o Banco de Dados:
        Configurar a conexão com o banco de dados: Edite o arquivo src/main/resources/application.properties com suas credenciais do SQL Server
@@ -18,6 +19,7 @@ Configurar o Projeto:
         http://localhost:8080
 
 ENDPOINTS:
+
     1. Listar Todos os Produtos
     GET /api/products
     Retorna uma lista de todos os produtos.
